@@ -1,5 +1,5 @@
 <?php
-// Args: 0 => makedb.php, 1 => "$JOOMLA_DB_HOST", 2 => "$JOOMLA_DB_USER", 3 => "$JOOMLA_DB_PASSWORD", 4 => "$JOOMLA_DB_NAME"
+// Args: 0 => makedb.php, 1 => "$JOOMLA_DB_HOST", 2 => "$JOOMLA_DB_USER", 3 => "$JOOMLA_DB_PASSWORD", 4 => "$JOOMLA_TEST_APP_NAME", 5 => "JOOMLA_PHP_VERSION", 6 => "JOOMLA_TEST_JOOMLA_VERSIONS", 7 => "JOOMLA_TEST_APP_VERSIONS"
 $stderr = fopen('php://stderr', 'w');
 fwrite($stderr, "\nEnsuring database is present\n");
 if (strpos($argv[1], ':') !== false)
@@ -28,17 +28,45 @@ do
 	}
 }
 while ($mysql->connect_error);
-if (!$mysql->query('DROP DATABASE IF EXISTS `' . $mysql->real_escape_string($argv[4]) . '`'))
+
+$joomlaVersions = explode(',', $argv[6]);
+
+if (strtolower($argv[4]) == 'joomla')
 {
-	fwrite($stderr, "\nMySQL 'DROP DATABASE' Error: " . $mysql->error . "\n");
-	$mysql->close();
-	exit(1);
+	$appVersions = array($argv[6]);
 }
-if (!$mysql->query('CREATE DATABASE IF NOT EXISTS `' . $mysql->real_escape_string($argv[4]) . '`'))
+else
 {
-	fwrite($stderr, "\nMySQL 'CREATE DATABASE' Error: " . $mysql->error . "\n");
-	$mysql->close();
-	exit(1);
+	$appVersions = explode(',', $argv[7]);
 }
-fwrite($stderr, "\nMySQL Database Created\n");
+
+foreach ($joomlaVersions as $jv)
+{
+
+	foreach ($appVersions as $av)
+	{
+		if (strtolower($argv[4]) == 'joomla')
+		{
+			$dbName = $argv[4] . '_' . $argv[5] . '_' . $jv;
+		}
+		else
+		{
+			$dbName = $argv[4] . '_' . $argv[5] . '_' . $jv . '_' . $av;
+		}
+
+		if (!$mysql->query('DROP DATABASE IF EXISTS `' . $mysql->real_escape_string($dbName) . '`'))
+		{
+			fwrite($stderr, "\nMySQL 'DROP DATABASE' Error: " . $mysql->error . "\n");
+			$mysql->close();
+			exit(1);
+		}
+		if (!$mysql->query('CREATE DATABASE IF NOT EXISTS `' . $mysql->real_escape_string($dbName) . '`'))
+		{
+			fwrite($stderr, "\nMySQL 'CREATE DATABASE' Error: " . $mysql->error . "\n");
+			$mysql->close();
+			exit(1);
+		}
+		fwrite($stderr, "\nMySQL Database Created: $dbName\n");
+	}
+}
 $mysql->close();
