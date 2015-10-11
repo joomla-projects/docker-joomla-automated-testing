@@ -14,7 +14,7 @@ RUN docker-php-ext-install mysqli
 RUN	mkdir /usr/src/test
 RUN	mkdir /usr/src/scripts
 
-# Copy app and Joomla
+# Copy scripts
 COPY docker-entrypoint.sh /usr/src/scripts/entrypoint.sh
 COPY makedb.php /usr/src/scripts/makedb.php
 
