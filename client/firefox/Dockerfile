@@ -1,0 +1,16 @@
+FROM selenium/standalone-firefox-debug
+MAINTAINER Tito Alvarez <augustoalvarez@gmail.com> (@jaTITOam)
+
+# Install PHP
+RUN apt-get update && apt-get install -y php5 curl php5-curl git
+
+# Install Composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+
+# Test directories
+RUN	mkdir /usr/src/scripts
+
+# Copy scripts
+COPY docker-entrypoint.sh /usr/src/scripts/entrypoint.sh
+
+ENTRYPOINT ["/usr/src/scripts/entrypoint.sh"]
