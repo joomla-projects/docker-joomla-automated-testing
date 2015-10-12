@@ -18,7 +18,9 @@ RUN	mkdir /usr/src/scripts
 COPY docker-entrypoint.sh /usr/src/scripts/entrypoint.sh
 COPY makedb.php /usr/src/scripts/makedb.php
 
-RUN chown -R www-data:www-data /usr/src/test
+RUN rm -rf /var/www/html \
+	&& ln -s /usr/src/test /var/www/html \
+	&& chown -R www-data:www-data /usr/src/test
 
 ENTRYPOINT ["/usr/src/scripts/entrypoint.sh"]
 CMD ["apache2-foreground"]
