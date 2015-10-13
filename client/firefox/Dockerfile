@@ -13,4 +13,4 @@ RUN	mkdir /usr/src/scripts
 # Copy scripts
 COPY docker-entrypoint.sh /usr/src/scripts/entrypoint.sh
 
-ENTRYPOINT ["/usr/src/scripts/entrypoint.sh"]
+CMD []
