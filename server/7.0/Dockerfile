@@ -12,6 +12,7 @@ RUN docker-php-ext-install mysqli
 
 # Test directories
 RUN	mkdir /usr/src/test
+RUN	mkdir /usr/src/app
 RUN	mkdir /usr/src/scripts
 
 # Copy scripts

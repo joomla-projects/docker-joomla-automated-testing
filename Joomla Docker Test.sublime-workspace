@@ -1,0 +1,1680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compoenn",
+				"components"
+			],
+			[
+				"displa",
+				"displayBackToJoomla"
+			],
+			[
+				"bootstrap",
+				"bootstrap3"
+			],
+			[
+				"Compi",
+				"compileCSS"
+			],
+			[
+				"back",
+				"backend-bootstrap3"
+			],
+			[
+				"compi",
+				"compile"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"defau",
+				"defaultValue"
+			],
+			[
+				"trans",
+				"transformClass"
+			],
+			[
+				"dfa",
+				"defaultValue"
+			],
+			[
+				"transform",
+				"transformClass"
+			],
+			[
+				"tan",
+				"transform"
+			],
+			[
+				"_tableFieldmo",
+				"_tableFieldModifiedBy"
+			],
+			[
+				"_table",
+				"_tableFieldCreatedBy"
+			],
+			[
+				"rapihal",
+				"RApiHalHelper"
+			],
+			[
+				"dta",
+				"dataGet"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"rapih",
+				"RApiHalHelper"
+			],
+			[
+				"primar",
+				"primaryKeys"
+			],
+			[
+				"valid",
+				"validateOptionalOutput"
+			],
+			[
+				"valida",
+				"validateOptional"
+			],
+			[
+				"rapiha",
+				"RApiSoapHelper"
+			],
+			[
+				"resou",
+				"resource"
+			],
+			[
+				"display",
+				"displayName"
+			],
+			[
+				"resour",
+				"resource"
+			],
+			[
+				"displ",
+				"displayName"
+			],
+			[
+				"resourc",
+				"resourceSpecific"
+			],
+			[
+				"output",
+				"outputFields"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"elemen",
+				"elementName"
+			],
+			[
+				"transfr",
+				"transformClass"
+			],
+			[
+				"trasn",
+				"transformClass"
+			],
+			[
+				"comp",
+				"complexType"
+			],
+			[
+				"copm",
+				"complexType"
+			],
+			[
+				"respon",
+				"Response"
+			],
+			[
+				"outpu",
+				"outputFields"
+			],
+			[
+				"webserv",
+				"webserviceXml"
+			],
+			[
+				"arrayofs",
+				"ArrayOfStringType"
+			],
+			[
+				"reso",
+				"resource"
+			],
+			[
+				"address_l",
+				"address_line1"
+			],
+			[
+				"add",
+				"address_id"
+			],
+			[
+				"retai",
+				"retail_price"
+			],
+			[
+				"show",
+				"show_retail_price"
+			],
+			[
+				"stockro",
+				"stockroom_id"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"stock",
+				"stockroom_id"
+			],
+			[
+				"compan",
+				"company_id"
+			],
+			[
+				"Customer",
+				"CustomerPriceGroup"
+			],
+			[
+				"Cus",
+				"CustomerPriceGroup"
+			],
+			[
+				"Produc",
+				"ProductImage"
+			],
+			[
+				"Prod",
+				"ProductImage"
+			],
+			[
+				"Pro",
+				"ProductAccessory"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"redshopb-p",
+				"redshopb-product_attribute"
+			],
+			[
+				"product",
+				"product_attribute_id"
+			],
+			[
+				"Product",
+				"ProductAttributeValues"
+			],
+			[
+				"objectt",
+				"objectList"
+			],
+			[
+				"delay",
+				"delayedOrders"
+			],
+			[
+				"execute",
+				"execute_sync"
+			],
+			[
+				"wall",
+				"walletMoneyTable"
+			],
+			[
+				"curre",
+				"currencyId"
+			],
+			[
+				"wal",
+				"walletId"
+			],
+			[
+				"check",
+				"checkFunds"
+			],
+			[
+				"J",
+				"JFactory"
+			],
+			[
+				"proce",
+				"processedMessages"
+			],
+			[
+				"xml",
+				"tmpXML"
+			],
+			[
+				"simplex",
+				"simplexml_load_file"
+			],
+			[
+				"com_re",
+				"com_redshopb"
+			],
+			[
+				"tmp",
+				"tmpPath"
+			],
+			[
+				"start",
+				"startSync"
+			],
+			[
+				"startsy",
+				"startSyncPrefix"
+			],
+			[
+				"new",
+				"newSync"
+			],
+			[
+				"compa",
+				"companyId"
+			],
+			[
+				"curren",
+				"currentLayoutId"
+			],
+			[
+				"depart",
+				"department"
+			],
+			[
+				"field",
+				"fieldname"
+			],
+			[
+				"cssfi",
+				"cssFile"
+			],
+			[
+				"cssfil",
+				"cssFiles"
+			],
+			[
+				"cssf",
+				"cssFile"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"css",
+				"cssStyles"
+			],
+			[
+				"od",
+				"orderId"
+			],
+			[
+				"redshopbh",
+				"RedshopbHelperOrder"
+			],
+			[
+				"orde",
+				"orderId"
+			],
+			[
+				"mul",
+				"multipleOrders"
+			],
+			[
+				"mult",
+				"multipleOrders"
+			],
+			[
+				"multi",
+				"multipleOrderIds"
+			],
+			[
+				"mu",
+				"multipleOrders"
+			],
+			[
+				"order",
+				"orderIds"
+			],
+			[
+				"orders",
+				"orderIds"
+			],
+			[
+				"ward",
+				"wardobeId"
+			],
+			[
+				"car",
+				"cartItem"
+			],
+			[
+				"wardro",
+				"wardrobeId"
+			],
+			[
+				"wa",
+				"wardrobeId"
+			],
+			[
+				"red",
+				"redSHOPB2B"
+			],
+			[
+				"deliv",
+				"DeliveryAddress"
+			],
+			[
+				"req",
+				"requisition"
+			],
+			[
+				"chlidren",
+				"childrenOrders"
+			],
+			[
+				"resul",
+				"resultOrderInfo"
+			],
+			[
+				"chil",
+				"childOrderInfo"
+			],
+			[
+				"resu",
+				"resultOrderInfo"
+			],
+			[
+				"res",
+				"resultOrderInfo"
+			],
+			[
+				"chilo",
+				"childOrderInfo"
+			],
+			[
+				"chi",
+				"childOrderId"
+			],
+			[
+				"customer",
+				"customer_type"
+			],
+			[
+				"chli",
+				"childOrderInfo"
+			],
+			[
+				"child",
+				"childOrderInfo"
+			],
+			[
+				"coll",
+				"collectOrderInfo"
+			],
+			[
+				"custome",
+				"customer_type"
+			],
+			[
+				"cus",
+				"customer_type"
+			],
+			[
+				"delivery_address_add",
+				"delivery_address_address2"
+			],
+			[
+				"resultor",
+				"resultOrderInfo"
+			],
+			[
+				"orderid",
+				"orderId"
+			],
+			[
+				"__red",
+				"__redshopb_order"
+			],
+			[
+				"default",
+				"defaultRequisition"
+			],
+			[
+				"getcomp",
+				"getCompanyByCustomer"
+			],
+			[
+				"defaul",
+				"defaultRequisition"
+			],
+			[
+				"collec",
+				"collectionInfo"
+			],
+			[
+				"custoemr",
+				"customerType"
+			],
+			[
+				"departm",
+				"department_id"
+			],
+			[
+				"queryca",
+				"queryCampaignProduct"
+			],
+			[
+				"product_i",
+				"product_item"
+			],
+			[
+				"__redshopb_p",
+				"__redshopb_product_item"
+			],
+			[
+				"company",
+				"companyId"
+			],
+			[
+				"deb",
+				"debtorRestrictions"
+			],
+			[
+				"EndC",
+				"EndCustomers"
+			],
+			[
+				"coma",
+				"companyId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git ",
+		"selected_items":
+		[
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"whoc",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"whoca",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"git rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git log cur",
+				"Git: Log Current File"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebug stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug ",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug s",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"who",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"git curren tl",
+				"Git: Log Current File"
+			],
+			[
+				"git curr",
+				"Git: Log Current File"
+			],
+			[
+				"git currentl",
+				"Git: Log Current File"
+			],
+			[
+				"log cur",
+				"Git: Log Current File"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"off",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"gig bl",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"git lor ",
+				"Git: Log Current File"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"html pr",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git log c",
+				"Git: Log Current File"
+			],
+			[
+				"add fo",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"log cu",
+				"Git: Log Current File"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"stop de",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"git current",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"htmlent",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"html enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"html en",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"htmlen",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"csv",
+				"CSV: Format"
+			],
+			[
+				"stop",
+				"Xdebug: Breakpoint - Stop"
+			],
+			[
+				"on",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"GIT BL",
+				"Git: Blame"
+			],
+			[
+				"git current l",
+				"Git: Log Current File"
+			],
+			[
+				"entit",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"xdebug st",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"whocal",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sniffer on",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"canc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"cancel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"git unsta",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git curren",
+				"Git: Log Current File"
+			],
+			[
+				"html de",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"downl",
+				"SFTP: Download File"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"log curr",
+				"Git: Log Current File"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"entiti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"htmle ",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"html ent",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"base",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"html dee",
+				"StringEncode: Safe HTML Deentitize"
+			],
+			[
+				"html entit",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"htmlenti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"git curre",
+				"Git: Log Current File"
+			],
+			[
+				"git cur",
+				"Git: Log Current File"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"xdebug us",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"xdebug user",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"glame",
+				"Git: Blame"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"xdeg",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"debug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"start",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"stop d",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug u",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"xdebug res",
+				"Xdebug: Restart Session"
+			],
+			[
+				"run",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"xdebug run",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"xdebug star",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xd",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug re",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xdebug sta",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"phpsni",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Contradd",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sniffer",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.4",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.5",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.6",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/7.0"
+	],
+	"file_history":
+	[
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox/docker-entrypoint.sh",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/7.0/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.6/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.5/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.4/Dockerfile",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/acceptance.suite.yml",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/acceptance.suite.dist.yml",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/acceptance/install/02-InstallExtensionCept.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/joomla/form/field.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/acceptance/AcceptanceTester.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/_output/02-InstallExtensionCept.fail.html",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/api.suite.yml",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/html/media.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/html/rjquery.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/layouts/component/admin.backbs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/layouts/topbar/admin.backbs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/layouts/sidebar.bs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/layouts/sidebar.backbs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/plugins/system/redcore/redcore.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/gulpfile.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/node_modules/gulp-redcore/media/redcore.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/component.backbs3.less",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/layouts/component/admin.bs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/layouts/topbar/admin.bs3.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/layouts/topbar.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/language/en-GB/en-GB.com_redcore.ini",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/language/en-GB/en-GB.lib_redcore.ini",
+		"/Users/tito/Sites/red/extensions/redCORE/administrator/components/com_redcore/language/en-GB/en-GB.com_redcore.ini",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/redcore.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/js/component.backbs3.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/node_modules/joomla-gulp/src/main.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/gulp-config.json.dist",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/gulp-config.json",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/node_modules/joomla-gulp/src/media.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/node_modules/gulp-redcore/components/redcore.js",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/html/rbootstrap.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/package.json",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests/system/joomla-cms3/libraries/joomla/document/html/renderer/head.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/backend-bootstrap3/less/variables.less",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/backend-bootstrap3/less/skins/skin-red.less",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/backend-bootstrap3/less/backbs3.less",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/build.properties",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/menu.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/overview.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/add-elements.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/create-elements.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/activate.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/translate-content.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/language-switcher.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/translation/joomla-content-language.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/assets/css/manual.css",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/manual/en-US/chapters/Menu.md",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/views/translation/tmpl/edit.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/component/admin/views/translations/tmpl/default.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/translation/table.php",
+		"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/translation/content/element.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/media/com_redshop/translations/products.xml",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/.gitignore",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/libraries/redshop/helper/user.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/component/site/helpers/user.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/component/site/helpers/helper.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/component/site/views/product/tmpl/default_cartbox.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/component/admin/helpers/wizard/redshop.cfg.dist.php",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/media/com_redshop/js/attribute.js",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/media/com_redshop/js/attribute-uncompressed.js",
+		"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP/build.properties",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/wsdl.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/language/en-GB/en-GB.lib_redcore.ini",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/layouts/webservice/documentationoperation/example.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-tag.1.0.0.xml",
+		"/Users/tito/Sites/testws.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/operation/operation.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/layouts/webservice/documentation.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/base.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/helper.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal/helper.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/layouts/webservice/documentationoperation.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/int.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/float.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/datetime.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/boolean.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/array.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/component/admin/views/webservices/tmpl/default.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal/hal.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/soap.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/table/table.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/component/admin/tables/tag.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/document/document.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/component/admin/tables/usergroup_sales_person_xref.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/api.php",
+		"/Users/tito/Sites/red/extensions/redRULES/templates/protostar/index.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/arraydefined.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/arrayrequired.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/interface.php",
+		"/Users/tito/Sites/testvs.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-country.1.0.0.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/file.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal/transform/interface.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/floating.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/json.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/none.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/position.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/state.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/string.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/target.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform/ynglobal.php",
+		"/Users/tito/Sites/test2.xml",
+		"/Users/tito/Sites/test.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/component/site/models/tag.php",
+		"/Users/tito/Downloads/old.xml",
+		"/Users/tito/Downloads/test.xml",
+		"/Users/tito/Sites/test3.wsdl",
+		"/Users/tito/Sites/test.wsdl",
+		"/Users/tito/Sites/test3.xsd",
+		"/Users/tito/Sites/test2.wsdl.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/build.properties",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/plugins/system/redshopbdj/redshopbdj.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redshopb.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/component/admin/models/forms/webservice_operation.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/install.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/oauth2.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/Controller/TokenController.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-field.1.0.0.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-language.1.0.0.xml",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/media/redcore/webservices/joomla/administrator.contact.1.0.0.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/TokenType/Bearer.php",
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/component/site/views/dashboard/view.html.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/tests",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/node_modules/gulp-redcore",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/backend-bootstrap3",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/media/redcore/less/backend-bootstrap3",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries",
+			"/Users/tito/Documents/Red/Repositories/Frameworks/redCORE/libraries/redcore/translation",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOP",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/hal/transform",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/soap/transform",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/plugins/rb_sync/pim",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/plugins/rb_sync/ftpsync",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/plugins",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/FNE/redSHOPB2B/modules/site",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/FNE",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/plugins/system/redshopb_dj",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/FNE/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/FNE",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/views/shop",
+			"/Users/tito/Documents/Red/Repositories/Customers/FNE/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/Freeconcept/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/FE/redSHOPB2B/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/FE/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Customers/Freeconcept/redSHOPB2B/plugins",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Sites/red/customers/redshopb2b/dj-fne/media/redcore/webservices/com_redshopb",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE/libraries",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/plugins",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/libraries/redshopb/helper",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/plugins/rb_sync/fengel/functions",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin/joomla",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin/joomla",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/tests/system/joomla-cms",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE/libraries",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE/libraries/redcore/database",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/redCORE/libraries/redcore/database/sqlparser",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/models",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin/sql/updates",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/libraries/redshopb/helper",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/views/shop",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/plugins/rb_sync/fengel/functions",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Sites/red/customers/deerhunterb2c",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/com_rsbmedia/admin",
+			"/Users/tito/Sites/red/customers/deerhunterb2c",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin/sql/updates/mysql",
+			"/Users/tito/Documents/Joomlashack/Repositories/Extensions/Shackslides",
+			"/Users/tito/Documents/Joomlashack/Repositories/Extensions/Visionary Component",
+			"/Users/tito/Documents/Joomlashack/Repositories/Frameworks/Wright",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/models",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Sites/red/customers/deerhunterb2c/templates/deerhunter/less",
+			"/Users/tito/Sites/red/customers/deerhunterb2c",
+			"/Users/tito/Documents/Red/Repositories/Templates/Customers/FEngelB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Joomlashack/Repositories/Templates/v.3/Unlimited",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Joomlashack/Repositories/Frameworks/Demobar",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/admin",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/plugins/rb_sync/fengel/functions",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component",
+			"/Users/tito/Downloads/joomla-cms-3.2.2",
+			"/Users/tito/Documents/Red/Repositories/Templates/Customers/FEngelB2B/wright",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Joomlashack/Repositories/Templates/v.3/Techie",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/models/forms",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/models/forms",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/component/site/views",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B/libraries/redshopb/helper",
+			"/Users/tito/Documents/Red/Repositories/Extensions/redSHOPB2B"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function getConfiguration",
+			"installExtensionFromDirectory",
+			"/home/travis",
+			"repo_folder",
+			"/home/travis",
+			"migra",
+			"back to j",
+			"?>\n",
+			"  ",
+			"component.bs3",
+			"font-awesome.min.css",
+			"fontawesome4",
+			"$",
+			"css:compile",
+			"disableMootools",
+			"onbeforecompilehead",
+			"onbeforecompil\nonbeforecompil",
+			"onbeforecompil",
+			"../images/",
+			"../img",
+			"..img/",
+			".css",
+			"fonts.gstatic.com",
+			"url(",
+			"../",
+			"less",
+			"### Step ",
+			"### Step",
+			". ",
+			"\"",
+			" style=\"width:85%;\">",
+			"component not found.",
+			"htmltext",
+			"'type'",
+			"titletext",
+			"'type'",
+			"field['type'",
+			"checked_out",
+			"referenceid",
+			"DEFAULT_CART_CHECKOUT_ITEMID",
+			"COM_REDSHOP_VIEW_CART",
+			"view cart",
+			"MOD_REDSHOP_CART_CART_LINK",
+			"view cart",
+			"attribute.js",
+			"redSHOP.rsConfig",
+			"getOutputResources",
+			"addOperation",
+			"output",
+			"LIB_REDCORE_API_HAL_WEBSERVICE_DOCUMENTATION_SOAP",
+			"soap",
+			"authorizationNeeded=\"true\"",
+			"&",
+			"documentationfields",
+			"=>",
+			"transformclass",
+			"$limitstart",
+			"soap",
+			"buildWebserviceUri",
+			"webservicepreview",
+			"document",
+			"$arr['result'] = 0;",
+			"processPostData",
+			"unset(",
+			"documentation",
+			"'doc",
+			"documentation",
+			"401",
+			"date($this->_auditDateFormat);",
+			"401",
+			"hasPrimaryKey",
+			"store()",
+			"new",
+			"_tableKey",
+			"getoption(",
+			"modified_date",
+			"created_date",
+			"_tableKey",
+			"option",
+			"__construct",
+			"getoption",
+			"var_dump",
+			"getFilterFields",
+			"getfilterfields",
+			"getFilterFields",
+			"getfilterfields",
+			"$webservice",
+			"RApiHalHal",
+			"rapihalhelper",
+			"isFilterField",
+			"filters",
+			"    ",
+			"operation",
+			"_12",
+			"getFieldsFromFields",
+			"getfield",
+			"var_d",
+			"required",
+			"'required",
+			"'required'",
+			"var_du",
+			"required",
+			"arraydefined",
+			"getPrimaryKeysFromFields",
+			"addOperation",
+			"addElementFields",
+			"$this->addOperation($this->wsdl, $name = ",
+			"addOperation",
+			"parent_id",
+			"params = ",
+			"<read",
+			"fieldformat",
+			"parent_id",
+			"listitem",
+			"resourceSpecific",
+			"'result'",
+			"dataMode",
+			"getPrimaryKeysFromFields",
+			"addOperation",
+			"http://tempuri.org/",
+			"isRequiredField",
+			"rapihaltransform",
+			"info",
+			"typeschema",
+			"transformField",
+			"toInternal(",
+			"toInternal",
+			"RApiHalTransformInterface"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getFieldsArray",
+			"RApiSoap",
+			"@since       1.4",
+			"since 1.4",
+			"1.6.0",
+			"1.5.1",
+			"Copyright (C) 2005 - 2015 redCOMPONENT.com",
+			"Copyright (C) 2012 - 2015 redCOMPONENT.com",
+			"2012 - 2015",
+			"Copyright (C) 2012 - 2015 redCOMPONENT.com",
+			"omitted",
+			"#__",
+			";",
+			",",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			"&amp;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"3.2.2",
+			"2.5.18",
+			"Copyright (C) 2005 - 2014",
+			"`type`",
+			"Copyright (C) 2012 - 2014 redCOMPONENT.com",
+			"Copyright (C) 2014 redCOMPONENT.com",
+			"2005 - 2014"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/GulpRelease.sublime-build",
+	"project": "Joomla Docker Test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htmlruq",
+				"libraries/redcore/html/rjquery.php"
+			],
+			[
+				"htmlmedia",
+				"libraries/redcore/html/media.php"
+			],
+			[
+				"pluginsredcore",
+				"plugins/system/redcore/redcore.php"
+			],
+			[
+				"sidebar.bs3",
+				"component/admin/layouts/sidebar.bs3.php"
+			],
+			[
+				"topbarbs3",
+				"libraries/redcore/layouts/topbar/admin.bs3.php"
+			],
+			[
+				"sidebarbs3",
+				"component/admin/layouts/sidebar.bs3.php"
+			],
+			[
+				"engblibre",
+				"libraries/redcore/language/en-GB/en-GB.lib_redcore.ini"
+			],
+			[
+				"",
+				"component/admin/language/en-GB/en-GB.com_redcore.ini"
+			],
+			[
+				"engbredcore",
+				"component/admin/language/en-GB/en-GB.com_redcore.ini"
+			],
+			[
+				"engblibred",
+				"libraries/redcore/language/en-GB/en-GB.lib_redcore.ini"
+			],
+			[
+				"topbaradmin",
+				"libraries/redcore/layouts/topbar/admin.bs3.php"
+			],
+			[
+				"topbar",
+				"libraries/redcore/layouts/topbar.php"
+			],
+			[
+				"admin.bs3.php",
+				"libraries/redcore/layouts/component/admin.bs3.php"
+			],
+			[
+				"main.js",
+				"node_modules/joomla-gulp/src/main.js"
+			],
+			[
+				"packagejson",
+				"package.json"
+			],
+			[
+				"redcore.php",
+				"component/admin/redcore.php"
+			],
+			[
+				"130",
+				"tests/system/joomla-cms/administrator/components/com_admin/sql/updates/mysql/2.5.2-2012-03-05.sql"
+			],
+			[
+				"rtext.php",
+				"redCORE/libraries/redcore/form/fields/rtext.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 593.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

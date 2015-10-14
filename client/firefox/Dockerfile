@@ -9,8 +9,9 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 
 # Test directories
 RUN	mkdir /usr/src/scripts
+RUN	mkdir /usr/src/app
 
 # Copy scripts
 COPY docker-entrypoint.sh /usr/src/scripts/entrypoint.sh
 
-CMD []
+CMD ["/usr/src/scripts/entrypoint.sh"]
