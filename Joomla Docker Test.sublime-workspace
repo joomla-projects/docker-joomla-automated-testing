@@ -1033,17 +1033,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.4",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.5",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/5.6",
-		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/7.0"
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/client",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/client/firefox",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.4",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.5",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.6",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/7.0"
 	],
 	"file_history":
 	[
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/client/firefox/docker-entrypoint.sh",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/client/firefox/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.5/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.4/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/5.6/Dockerfile",
+		"/Users/tito/Documents/Repositories/Joomla/Docker/joomla-test/server/7.0/Dockerfile",
 		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox/Dockerfile",
 		"/Users/tito/Documents/Repositories/Joomla/Docker Test/client/firefox/docker-entrypoint.sh",
 		"/Users/tito/Documents/Repositories/Joomla/Docker Test/server/7.0/Dockerfile",
@@ -1165,13 +1171,7 @@
 		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redshopb.xml",
 		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/component/admin/models/forms/webservice_operation.xml",
 		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/install.php",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/oauth2.php",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/Controller/TokenController.php",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-field.1.0.0.xml",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/media/com_redshopb/webservices/com_redshopb/site.redshopb-language.1.0.0.xml",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/media/redcore/webservices/joomla/administrator.contact.1.0.0.php",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/TokenType/Bearer.php",
-		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/component/site/views/dashboard/view.html.php"
+		"/Users/tito/Documents/Red/Repositories/Customers/redSHOPB2B/DJ/redSHOPB2B/redCORE/libraries/redcore/api/oauth2/oauth2.php"
 	],
 	"find":
 	{
@@ -1672,7 +1672,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 593.0,
+	"side_bar_width": 323.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
