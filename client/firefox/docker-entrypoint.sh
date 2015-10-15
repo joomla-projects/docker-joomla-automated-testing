@@ -18,5 +18,5 @@ composer install
 vendor/bin/robo run:tests-from-docker-container
 
 if [ -n "$SLACK_CHANNEL" ] && [ -n "$SLACK_TOKEN" ]; then
-	vendor/bin/robo send:codeception-output-to-slack $SLACK_CHANNEL $SLACK_TOKEN
+	vendor/bin/robo send:codeception-output-to-slack $SLACK_CHANNEL $SLACK_TOKEN "" $DOCKERTEST_APPNAME $DOCKERTEST_PHPVERSION $DOCKERTEST_JOOMLAVERSION
 fi;
