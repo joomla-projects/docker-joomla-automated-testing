@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sed -i -e "s/{SE_OPTS}/{SE_OPTS} >> \/var\/log\/selenium.log 2>\&1/g" /opt/bin/entry_point.sh
+
 /opt/bin/entry_point.sh  &
 
 if [ -f /usr/src/scripts/entrypoint-specific.sh ]; then
