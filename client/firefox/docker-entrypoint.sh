@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sed -i -e "s/selenium-server-standalone.jar \${JAVA_OPTS}/selenium-server-standalone.jar \${JAVA_OPTS} >> \/var\/log\/selenium.log 2>\&1/g" /opt/bin/entry_point.sh
-
 /opt/bin/entry_point.sh  &
 
 if [ -f /usr/src/scripts/entrypoint-specific.sh ]; then
@@ -13,7 +11,6 @@ if [ -n "$GITHUB_TOKEN" ]; then
 fi;
 
 cd /usr/src/app/tests
-composer install
 
 vendor/bin/robo run:tests-from-docker-container
 
