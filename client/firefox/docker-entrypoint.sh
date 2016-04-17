@@ -12,7 +12,7 @@ if [ -n "$GITHUB_TOKEN" ]; then
 	composer config -g github-oauth.github.com $GITHUB_TOKEN
 fi;
 
-cd /usr/src/app
+cd /usr/src/app/tests
 composer install
 
 vendor/bin/robo run:tests-from-docker-container
