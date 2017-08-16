@@ -15,4 +15,5 @@ fi;
 cd /usr/src/tests/tests
 
 composer install --prefer-dist
-vendor/bin/robo run:container-tests
+vendor/bin/robo run:container-test-preparation
+tail -f /dev/null
